@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mandictra]
+# Hi there! 👋 I'm Mandictra
 
 ## 🚀 About Me
 I'm a passionate developer working on **ESP32-based systems, AI-powered assistants, and embedded electronics**. I enjoy building innovative projects that merge **IoT, AI, and automation** to create smart and interactive solutions.
